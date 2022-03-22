@@ -1,2 +1,1 @@
-# @DisplaySize.anm
- AviUtl Script
+https://shummg.work/archives/1334
